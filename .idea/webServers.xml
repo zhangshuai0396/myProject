@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="58ab1d51-634f-4d2b-83c5-3f5ec4d2685d" name="39.105.151.213" url="http://39.105.151.213">
+        <fileTransfer host="39.105.151.213" port="22" rootFolder="/root/djangoProject/myProject" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
